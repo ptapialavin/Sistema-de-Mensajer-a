@@ -71,7 +71,7 @@ body {
 .btn-new-chat {
   width: 100%;
   padding: 12px;
-  background-color: #9279be; /* Color morado aproximado de la imagen */
+  background-color: #9279be; 
   color: white;
   border: none;
   border-radius: 4px;
@@ -125,7 +125,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 190px; /* Evita que el texto rompa el diseño */
+  max-width: 190px; 
 }
 
 /* Segmento princpial o main o centrado con Flexbox */
